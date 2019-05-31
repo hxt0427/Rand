@@ -1,0 +1,4 @@
+﻿  Rand.cpp
+c:\users\15597\source\repos\rand\rand\rand.cpp(29): warning C4101: “c1”: 未引用的局部变量
+c:\users\15597\source\repos\rand\rand\rand.cpp(29): warning C4101: “c2”: 未引用的局部变量
+  Rand.vcxproj -> C:\Users\15597\source\repos\Rand\Debug\Rand.exe
